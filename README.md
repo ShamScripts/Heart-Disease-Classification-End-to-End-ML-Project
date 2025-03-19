@@ -54,11 +54,11 @@ pip install numpy pandas scikit-learn matplotlib seaborn joblib
 ## Running the Notebook
 1. Clone this repository:
    ```bash
-   git clone https://github.com/mrdbourke/zero-to-mastery-ml.git
+   git clone https://github.com/ShamScripts/Heart-Disease-Classification-End-to-End-ML-Project.git
    ```
 2. Navigate to the project folder:
    ```bash
-   cd zero-to-mastery-ml/section-3-structured-data-projects
+   cd Heart-Disease-Classification-End-to-End-ML-Project
    ```
 3. Open the Jupyter Notebook:
    ```bash
@@ -75,4 +75,6 @@ The final model achieves **[accuracy score]**, with key metrics as follows:
 - Implement feature selection techniques to improve model performance
 - Try deep learning models for better accuracy
 - Deploy the model as a web application
+
+
 
