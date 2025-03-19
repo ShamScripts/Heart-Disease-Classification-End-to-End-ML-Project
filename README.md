@@ -76,9 +76,3 @@ The final model achieves **[accuracy score]**, with key metrics as follows:
 - Try deep learning models for better accuracy
 - Deploy the model as a web application
 
-## Author
-This project is based on the work by [Daniel Bourke](https://github.com/mrdbourke) from the Zero to Mastery Machine Learning course.
-
-## License
-This project follows the MIT License as per the original repository.
-
